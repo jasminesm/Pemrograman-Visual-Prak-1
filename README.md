@@ -1,2 +1,2 @@
-# Pemrograman-Visual-Prak-1
+# Pem-Vis-Prak-1
 python
